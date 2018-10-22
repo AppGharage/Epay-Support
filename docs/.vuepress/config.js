@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Epay',
+    title: 'Epay Guide',
     description: 'The guide to using Epay',
     serviceWorker: true,
     themeConfig: {
