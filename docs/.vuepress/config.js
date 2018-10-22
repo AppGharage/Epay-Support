@@ -3,7 +3,7 @@ module.exports = {
     description: 'The guide to using Epay',
     serviceWorker: true,
     themeConfig: {
-        repo: 'https://github.com/AppGharage/Epay-Support.git',
+        repo: 'AppGharage/Epay-support',
         repoLabel: 'Contribute!',
         docsDir: 'docs',
         editLinks: true,

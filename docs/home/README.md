@@ -3,8 +3,6 @@ Epay, is a Web and a Mobile based application that makes it easier for African b
 
 **Get Paid around the World, Grow your Business, Go Global!**
 
-
-
 ## Getting Started 
 ::: tip
 Everything you need to know about getting started with Epay
@@ -19,7 +17,7 @@ Everything you need to know about getting started with Epay
  :::
 
  - After you login successfully, head to the navigation and click on **Payment Pages**. 
- - On the top right coner is a button named **Create New Page**; click on it to create your payment page. 
+ - On the top right corner is a button named **Create New Page**; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
 
  ## Who is Epay for?
@@ -58,16 +56,16 @@ Thinking of how you get paid? Here is how;
 **What is the minimal payout through Epay?**
 - This depends on what your payment processor allows you to send. There is no limitation from Epay.
 
-**Is a business charged for creatng a page?**
+**Is a business charged for creating a page?**
 * No. Every payment page created is totally **FREE** 
 
 ## Getting your money
 :::tip
-How to tranfer funds from your Epay wallet
+How to transfer funds from your Epay wallet
 :::
 
 - Head to the Transfers tab on the navigation
-- Click on **New tranfer** button located at the top right corner of that page.
+- Click on **New transfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
 
 **How long does it take for a transfer to settle in my account?**
@@ -87,6 +85,8 @@ This is how to pay someone or a business using the payment link you are given
 
 ## How secure is Epay?
 Transaction details are encrypted and transfered securely to our processors, we guarantee sensitive details will not be comprised at any point in time.
+
+
  
 
 
