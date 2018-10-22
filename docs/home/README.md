@@ -53,7 +53,7 @@ Thinking of how you get paid? Here is how;
 **Is a business charged for creatng a page?**
 * No. Every payment page created is totally **FREE** 
 
-# Getting your money
+## Getting your money
 :::tip
 How to tranfer funds from your Epay wallet
 :::

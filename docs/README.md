@@ -1,5 +1,5 @@
 ---
-title: Epay Spport | AppGharage
+title: Epay Support | AppGharage
 lang: en-US
 
 meta:
@@ -12,7 +12,6 @@ home: true
 
 actionText: Get Started →
 actionLink: /home/
-
 
 footer: MIT Licensed | Copyright © 2018-present AppGharage
 ---
