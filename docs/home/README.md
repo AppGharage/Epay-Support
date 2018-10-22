@@ -1,6 +1,9 @@
 ## Introduction
 Epay, is a Web and a Mobile based application that makes it easier for African businesses to accept online payments (both local and International) via Fully customizable Payment Pages or links, Invoices, or USSDs without the need of a Developer or a Website. 
 
+**Get Paid around the World, Grow your Business, Go Global!**
+
+
 
 ## Getting Started 
 ::: tip
@@ -15,9 +18,14 @@ Everything you need to know about getting started with Epay
  Setting up Epay is easy. Whether you are a developer or a business
  :::
 
- - After you login successfully, head to the navigation and click on "Payment Pages". 
- - On the top right coner is a button named "Create New Page"; click on it to create your payment page. 
+ - After you login successfully, head to the navigation and click on **Payment Pages**. 
+ - On the top right coner is a button named **Create New Page**; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
+
+ ## Who is Epay for?
+ ::: tip
+ Epay is for everybody. Be it an Online business, an individual, schools, event organizers, etc. It is for **Everybody!!**
+ ::: 
 
  ## Payment Channels
  ::: tip
@@ -76,4 +84,9 @@ This is how to pay someone or a business using the payment link you are given
  ::: warning Important
  NB: There will be an additional transaction charge. Instructions as to how to authorize your payment may be provided.
  :::
+
+## How secure is Epay?
+Transaction details are encrypted and transfered securely to our processors, we guarantee sensitive details will not be comprised at any point in time.
+ 
+
 
