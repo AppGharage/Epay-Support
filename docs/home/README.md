@@ -2,15 +2,15 @@
 Epay, is a Web and a Mobile based application that makes it easier for African businesses to accept online payments (both local and International) via Fully customizable Payment Pages or links, Invoices, or USSDs without the need of a Developer or a Website. 
 
 
-# Getting Started 
+## Getting Started 
 ::: tip
 Everything you need to know about getting started with Epay
 :::
  - Create an Account by signing up
- - Verfy your email
+ - Verify your email
  - Login to your account
 
- # Setting Up Epay
+ ## Setting Up Epay
  ::: tip
  Setting up Epay is easy. Whether you are a developer or a business
  :::
@@ -19,7 +19,7 @@ Everything you need to know about getting started with Epay
  - On the top right coner is a button named "Create New Page"; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
 
- # Payment Channels
+ ## Payment Channels
  ::: tip
 Below are the payment channels available on Epay;
 :::
@@ -28,7 +28,7 @@ Below are the payment channels available on Epay;
  - Mobile Money(MOMO): Recieve and transfer funds into your Mobile money
  - Card Payment: Pay using your card
 
-# Epay Dashboard
+## Epay Dashboard
 ::: tip
 Make use of your dashboard very well. Your dashboard provides you with all information you need. You can;
 :::
@@ -36,7 +36,7 @@ Make use of your dashboard very well. Your dashboard provides you with all infor
 - Total number of payment pages you have
 - Total number of customers with all their details
 
-# Getting Paid
+## Getting Paid
 ::: tip
 Thinking of how you get paid? Here is how;
 :::
@@ -65,7 +65,7 @@ How to tranfer funds from your Epay wallet
 **How long does it take for a transfer to settle in my account?**
 - Payments are instant
 
-# How to pay Someone or a Business
+## How to pay Someone or a Business
 :::tip
 This is how to pay someone or a business using the payment link you are given
 :::

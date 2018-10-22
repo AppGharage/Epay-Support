@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Epay-Support',
+    title: 'Epay',
     description: 'The guide to using Epay',
     serviceWorker: true,
     themeConfig: {
