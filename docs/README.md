@@ -4,7 +4,7 @@ lang: en-US
 
 meta:
   - name: description
-    content: General information about Epay, our processes, and security
+    content: General information about Epay, our processes, and standards
   - name: keywords
     content: How to use Epay | appgharage
 
