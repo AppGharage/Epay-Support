@@ -1,9 +1,9 @@
 module.exports = {
-    title: 'Epay Support',
+    title: 'Epay-Support',
     description: 'The guide to using Epay',
     serviceWorker: true,
     themeConfig: {
-        repo: 'AppGharage/Epay Support',
+        repo: 'AppGharage/Epay-Support',
         repoLabel: 'Contribute!',
         docsDir: 'docs',
         editLinks: true,
@@ -13,7 +13,6 @@ module.exports = {
             updatePopup: true
         },
         sidebar: 'auto',
-        displayAllHeaders: true,
         nav: [
             { text: 'Home', link: '/' },
 
