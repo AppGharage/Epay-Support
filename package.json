@@ -1,0 +1,16 @@
+{
+    "name": "epay-support",
+    "version": "1.0.0",
+    "description": "A guide on how to use Epay",
+    "main": "index.js",
+    "author": "Roberta Akoto",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^0.14.4"
+    },
+
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    }
+}
