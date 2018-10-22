@@ -2,6 +2,7 @@
 Epay, is a service that makes it easier for African businesses to accept online payments (both local and International) without owing a website or being a developer.  
 
 We believe runing a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
+
 **Get Paid around the World, Grow your Business, Go Global!**
 
 ::: tip Steps on how to accept payments on Epay ;
