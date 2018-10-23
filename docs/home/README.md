@@ -35,7 +35,7 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
 
  ### How to get your money from your Epay wallet
 - Head to the Transfers tab on the navigation
-- Click on **New transfer** button located at the top right corner of that page.
+- Click on the **New transfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
 
 **NB: Payments are instant, but should you face any issue kindly reachout to our support Team**
@@ -43,7 +43,7 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
 ## Epay Dashboard
 Make use of your dashboard very well. Your dashboard provides you with all information you need. You can;
 
-- You can view your wallet, total amount you have transferred and also all your income through epay 
+- View your wallet, total amount you have transferred and also all your income through epay 
 - Total number of payment pages you have
 - Total number of customers with all their details
 
