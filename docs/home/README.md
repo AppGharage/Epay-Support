@@ -1,7 +1,7 @@
 ## Overview
 Epay, is a service that makes it easier for African businesses to accept online payments (both local and International) without owing a website or being a developer.  
 
-We believe runing a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
+We believe running a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
 
 **Get Paid around the World, Grow your Business, Go Global!**
 
@@ -27,7 +27,7 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
  - On the top right coner is a button named **Create New Page**; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
 
- ### How to make payment or get paid
+ ### How to make payment 
  - Request a payment link
  - Fill out the required details 
  - Choose your preferred method of payment
@@ -35,7 +35,7 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
 
  ### How to get your money from your Epay wallet
 - Head to the Transfers tab on the navigation
-- Click on **New tranfer** button located at the top right corner of that page.
+- Click on **New transfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
 
 **NB: Payments are instant, but should you face any issue kindly reachout to our support Team**
