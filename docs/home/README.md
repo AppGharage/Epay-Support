@@ -33,7 +33,7 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
  - Choose your preferred method of payment
  - Fill out the payment details and Click **Proceed to payment**
 
- ### How to transfer money out of your Epay wallet
+ ### How to get your money from your Epay wallet
 - Head to the Transfers tab on the navigation
 - Click on **New tranfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
@@ -48,16 +48,12 @@ Make use of your dashboard very well. Your dashboard provides you with all infor
 - Total number of customers with all their details
 
 ## Payment Channels
-
 Below are the payment channels available on Epay;
 
  - **Bank Transfers**: Recieve and transfer funds into your bank account directly
  - **Mobile Money(MOMO)** : Recieve and transfer funds into your Mobile money
  - **Card Payment**: Pay using your card
 
-
- 
-## Video Library
 
 ## How secure is Epay?
 Transaction details are encrypted and transfered securely to our processors, we guarantee sensitive details will not be comprised at any point in time.
