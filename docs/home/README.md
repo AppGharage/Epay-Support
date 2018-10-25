@@ -1,5 +1,5 @@
 ## Overview
-Epay, is a service that makes it easier for African businesses to accept online payments (both local and International) without owing a website or being a developer.  
+Epay, is a service that makes it easier for African businesses to accept online payments (both local and International) without owning a website or being a developer.  
 
 We believe running a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
 
@@ -19,12 +19,12 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
  ### How to setup your Epay account
   Everything you need to know about getting started with Epay
    - Create an Account by signing up
-   - Verify your email
+   - Verify your email address
    - Login to your account
 
  ### How to create a payment page
  - After you login successfully, head to the navigation and click on **Payment Pages**. 
- - On the top right coner is a button named **Create New Page**; click on it to create your payment page. 
+ - On the top right corner is a button named **Create New Page**; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
 
  ### How to make payment 
@@ -38,12 +38,12 @@ Epay was designed to be simple and intuitive with the focus on making it easy fo
 - Click on the **New transfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
 
-**NB: Payments are instant, but should you face any issue kindly reachout to our support Team**
+**NB: Payments are instant, but should you face any issue, kindly reachout to our support Team**
 
 ## Epay Dashboard
 Make use of your dashboard very well. Your dashboard provides you with all information you need. You can;
 
-- View your wallet, total amount you have transferred and also all your income through epay 
+- View your wallet, total amount you have transferred and also all your income on epay 
 - Total number of payment pages you have
 - Total number of customers with all their details
 
@@ -56,7 +56,7 @@ Below are the payment channels available on Epay;
 
 
 ## How secure is Epay?
-Transaction details are encrypted and transfered securely to our processors, we guarantee sensitive details will not be comprised at any point in time.
+Transaction details are encrypted and transfered securely to our processors, we guarantee sensitive details will not be compromised at any point in time.
 
 
  
