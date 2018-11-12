@@ -57,7 +57,7 @@ Make use of your dashboard very well. Your dashboard provides you with all infor
 ## Payment Channels
 Below are the payment channels available on Epay;
 
- - **Bank Transfers**: Recieve and transfer funds into your bank account directly
+ - **Bank Transfers**: Transfer funds from your Epay wallet directly into your bank account.
  - **Mobile Money(MOMO)** : Recieve and transfer funds into your Mobile money
  - **Card Payment**: Pay using your card
 
