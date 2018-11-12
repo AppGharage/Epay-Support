@@ -10,7 +10,7 @@ meta:
 
 home: true
 
-actionText: Get Started →
+actionText: Read Docs →
 actionLink: /home/
 
 footer: MIT Licensed | Copyright © 2018 - present epaygh.com

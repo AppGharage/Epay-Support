@@ -15,6 +15,7 @@ module.exports = {
         sidebar: 'auto',
         nav: [
             { text: 'Home', link: '/' },
+            { text: 'Developers', link: '/developers/' },
             { text: 'Visit Epay', link: 'https://epaygh.com' }
         ]
     }
