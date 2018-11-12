@@ -1,5 +1,5 @@
 ## Overview
-Epay, is a payment service that makes it easier for African businesses to securely accept online payments (both local and International) without owning a website or being a developer.  
+Epay is a payment service that makes it easier for African businesses to securely accept online payments (both local and International) without coding or having a website and at no cost. 
 
 We believe running a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
 
@@ -67,6 +67,7 @@ Transaction details are encrypted and transfered securely to our processors, we 
 ## Developers
 Epay has also been designed for developers. If you are a developer, Epay has been designed to allow you extend and easily integrate into systems in order to accept payment without thinking of the risk that comes with processing payments.
 
-For developers, Epay serves as a webhook-driven checkout-as-a-service. Our well designed and beautiful checkout pages allows you to accept payments for your one-time purchase products and services, and notifies you via webhook whenever a new payment comes through. You don’t need to write a single line of payment code, you only need to worry about how to respond when a payment is successful or not.
+Our well designed and beautiful checkout pages allows you to accept payments for your one-time purchase products and services, and notifies you via webhook whenever a new payment comes through. You don’t need to write a single line of payment code, you only need to worry about how to respond when a payment is successful or not.
+View documentation here(https://epay-guide.netlify.com/developers/#overview)
 
 
