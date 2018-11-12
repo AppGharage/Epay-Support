@@ -1,25 +1,24 @@
 ## Overview
 Epay, is a payment service that makes it easier for African businesses to securely accept online payments (both local and International) without owning a website or being a developer.  
 
-We believe running a business is difficult, therefore, accepting payments shouldn't be difficult. Epay makes sure you get paid whilst you focus on building your business.
-
-**Get Paid around the World, Grow your Business, Go Global!**
+**Focus on building a gloabl business and not on payments infrastructure. Get Paid around the World, Grow your Business, Go Global!**
 
 
-::: tip How different is Epay from other services out there?
-We are not a payment gateway, we have only built the infrastructure around the complexity and taken upon ourselves the risk in connecting multiple payment processors to securely process payments. We also charge the lowest transaction fees, Payment settlement is instant and free.
+::: tip What makes us different?
+
+- Instant settlements with the lowest transaction fees. 
+- You don't need a website or write to be able to accept payments for your business.
+- Developer friendly with webhook driven platfrom
+- Easy to setup and start accepting payments in minutes
+- Your customers need no mobile app installed and don't need to signup on epay to pay you.
 :::
-
-::: tip Steps on how to accept payments on Epay ;
-1. Setup your Epay account and verify your Email address
-2. Create a payment page
-3. Share page link with customers to get paid
-:::
-
-Other features of Epay include; sales tracking, customer management and basic accounting.
-Epay was designed to be simple and intuitive with the focus on making it easy for businesses to get paid.
 
 ## Getting Started 
+  ::: tip Steps on how to accept payments on Epay ;
+  1. Setup your Epay account and verify your Email address
+  2. Create a payment page
+  3. Share page link with customers to get paid
+  :::
     
  ### How to setup your Epay account
   Everything you need to know about getting started with Epay
