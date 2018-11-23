@@ -37,7 +37,7 @@ Epay is a payment service that makes it easier for African businesses to securel
  - Choose your preferred method of payment
  - Fill out the payment details and Click **Proceed to payment**
 
- ### How to get your money from your Epay wallet
+ ### Transfer money from your Epay wallet
 - Head to the Transfers tab on the navigation
 - Click on the **New transfer** button located at the top right corner of that page.
 - Choose your withdrawal method and get your money.
