@@ -7,7 +7,7 @@ Epay is a payment service that makes it easier for African businesses to securel
 ::: tip What makes us different?
 
 - Instant settlements with the lowest transaction fees. 
-- You don't need a website or write to be able to accept payments for your business.
+- You don't need a website or to write code to be able to accept payments for your business.
 - Developer friendly with webhook driven platfrom
 - Easy to setup and start accepting payments in minutes
 - Your customers need no mobile app installed and don't need to signup on epay to pay you.
