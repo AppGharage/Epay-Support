@@ -33,8 +33,8 @@ Epay's webhook notifications are sent via HTTP POST request, to your specified w
 Get up and running with our webhook driven service and start your integration.
 Integrating Epay into your app or website can begin as soon as you [Create an Account](https://epaygh.com/register), requiring only three steps;
 1. [Configure your Webhook](/developers/#configuring-your-webhooks-settings) to receive webhook notifications through the specified endpoint
-2. [Connect your payment page](/developers/#connecting-your-payment-page) so you can tak payments from your customers directly into your Epay wallet 
-3. [Recieve and Handle Webhook Notifications](/developers/#recieving-a-webhook-notification) to confirm payment transctions and fulfill purchases
+2. [Connect your payment page](/developers/#connecting-your-payment-page) so you can take payments from your customers directly into your Epay wallet 
+3. [Receive and Handle Webhook Notifications](/developers/#recieving-a-webhook-notification) to confirm payment transactions and fulfill purchases
 
 
 ## Configuring your Webhooks Settings
@@ -57,7 +57,7 @@ to the payment page when they click on the pay button.
 You may also choose to use an iframe to load the payment page when a user clicks on the pay button.
 :::
 
-## Recieving a webhook Notification
+## Receiving a webhook Notification
 Creating a webhook endpoint on your server is not different from creating any page on your website. With PHP, you might create a new **.php** file on your server; with a framework like Laravel, you would add a new route with the desired URL. Webhook Data is sent as JSON in a post Request body. The full notification details are included and can be used directly after, parsing the JSON.
 
 ::: warning IMPORTANT
