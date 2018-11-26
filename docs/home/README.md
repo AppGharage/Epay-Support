@@ -27,6 +27,8 @@ Epay is a payment service that makes it easier for African businesses to securel
    - Login to your account
 
  ### How to create a payment page
+ A **Payment Page** can represent anything you want to charge money for, including; a downloadable product, a private course, T-shirt etc
+
  - After you login successfully, head to the navigation and click on **Payment Pages**. 
  - On the top right corner is a button named **Create New Page**; click on it to create your payment page. 
  - Now, copy the link provided you when you create the page and start sharing with whoever needs to pay you.
